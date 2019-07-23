@@ -7,9 +7,13 @@ The terabee device link: https://www.terabee.com/shop/3d-tof-cameras/teraranger-
 
 Connections: 
 Teensy >> Sensor
+
 0 (RX1)   > Pin 2 
+
 1 (TX1)   > Pin 1 (red cable) 
+
 GND       > Pin 3
+
 VIN (USB) > Pin 7
 
 Video: 
