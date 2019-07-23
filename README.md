@@ -18,6 +18,7 @@ VIN (USB) > Pin 7
 
 Video: 
 
+https://youtu.be/4Oji3pKkvJU
 
 
 
